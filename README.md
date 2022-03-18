@@ -1,2 +1,2 @@
-# odin-reciptes
+# odin-recipes
 My first HTML webpage
